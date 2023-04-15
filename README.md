@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Redux,NodeJS,**
 
-- 👨‍💻 All of my projects are available at [https://www.lusinekenneth.me/](lusinekenneth.me)
+- 👨‍💻 All of my projects are available at https://www.lusinekenneth.me/ (lusinekenneth.me)
 
 - 📫 How to reach me **lusinekenneth2@gmail.com**
 
