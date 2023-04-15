@@ -9,14 +9,14 @@
 
 - 🌱 I’m currently learning **Redux,NodeJS,**
 
-- 👨‍💻 All of my projects are available at [lusinekenneth.me](lusinekenneth.me)
+- 👨‍💻 All of my projects are available at [https://www.lusinekenneth.me/](lusinekenneth.me)
 
 - 📫 How to reach me **lusinekenneth2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/lusine-kenneth-533065221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lusine-kenneth-533065221/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvhitzokrzgzvctf1le9ziw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvhitzokrzgzvctf1le9ziw" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lusine-kenneth-533065221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lusine-kenneth-533065221/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@WhatDaChuck4Real/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvhitzokrzgzvctf1le9ziw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
